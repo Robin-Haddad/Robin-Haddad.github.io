@@ -1032,7 +1032,6 @@
 
 	#banner {
 		background-image: url(), url(../images/Background.jpg);
-		background-repeat: no-repeat;
 		 background-position: center center;
 		 background-size: cover; 
 		color: #ffffff;
