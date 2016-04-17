@@ -4,9 +4,7 @@
 
 /*
 	Transit by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
+	templated.co @templatedco*/
 
 /* Basic */
 
@@ -1031,13 +1029,14 @@
 /* Banner */
 
 	#banner {
-		background-image: url(), url(../images/Background.jpg);
-		background-position: center center;
-		background-size: cover; 
-		color: #ffffff;
-		padding: 14em 0em 14em;
-		text-align: center;
-	}
+ 		background-image: url(../images/Background.jpg);
+  		background-position: center center;
+  		background-size: cover;
+  		color: #ffffff;
+ 		padding: 14em 0em 14em;
+ 		text-align: center;
+ 	}
+	
 
 		#banner :last-child {
 			margin-bottom: 0;
