@@ -1032,8 +1032,8 @@
 
 	#banner {
 		background-image: url(), url(../images/Background.jpg);
-		 background-position: center center;
-		 background-size: cover; 
+		background-position: center center;
+		background-size: cover; 
 		color: #ffffff;
 		padding: 14em 0em 14em;
 		text-align: center;
